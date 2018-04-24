@@ -1,0 +1,115 @@
+/* color 
+off-black:
+off-white:
+off-white-link:
+*/
+
+body {
+  padding-top: 80px;
+  text-align: center;
+  font-family: century gothic;
+  color: #dddddd;
+  background: #000;
+  background-image: url("https://i.imgur.com/MoyAZ8C.png");
+  background-repeat: repeat-x;
+  background-size: cover;
+  background-attachment:fixed;
+}
+
+h1 {
+  display: inline-block;
+  background: #dddddd;
+  color: #1D1D1D;
+  font-size: 30px;
+
+}
+  
+}
+h2 {
+  font-size: 25px;
+  
+}
+span {
+  background: #ff8080;
+  color: #dddddd;
+
+}
+span, .bodyText {
+    text-shadow: 2px 2px #000000;
+
+
+/* BODY TEXT BOX */
+
+}
+.bodyText {
+    width: 695px;
+    background-color: #1D1D1D;
+    padding: 20px;
+    margin: 0px;
+
+/* HEADER */
+
+}
+.header {
+  height: 350px;
+  width: 735px;
+  background-image: url("https://i.imgur.com/usoIAny.png");
+
+/* NAV BAR BG and TRANSITION for intro page */
+
+}
+.tranNavBar {
+  width: 737px;
+  height: 63px;
+  padding: px;
+  font-color: white;
+  background-color: #ff8080;
+  margin: px;
+  transition: width 2s;
+    -webkit-transition: width 2s; /* Safari 3.1 to 6.0 */
+}
+.tranNavBar:hover {
+    width: 300px;
+}
+.navBar {
+  width: 735px;
+  height: 25px;
+  padding: px;
+  font-color: white;
+  background-color: #ff8080;
+  margin: px;
+}
+
+/* LINKS */
+
+}
+a {
+  font-size: 20px;
+  color: #1d1d1d;
+  text-decoration: none;
+
+  
+}
+a:link {
+    font-size:20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #1d1d1d;
+
+}
+a:visited {
+    font-size:20px;
+    text-decoration: none;
+    color: #000000;
+
+}
+a:hover {
+    font-size:20px;
+    font-style: italic;
+    color: #1D1D1D;
+}
+a:active {
+    font-size:20px;
+    text-decoration: none;
+    color: #1d1d1d;
+}
