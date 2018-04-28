@@ -9,6 +9,7 @@ body {
   text-align: center;
   font-family: century gothic;
   -webkit-font-smoothing: antialiased;
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.004) !important;
   color: #dddddd;
   background: #000;
   background-image: url("https://i.imgur.com/MoyAZ8C.png");
