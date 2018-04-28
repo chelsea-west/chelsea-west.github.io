@@ -16,12 +16,7 @@ body {
   background-attachment:fixed;
 }
 
-/* anti-alias text */
 
-* {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
 
 h1 {
   display: inline-block;
