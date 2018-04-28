@@ -8,19 +8,13 @@ body {
   padding-top: 80px;
   text-align: center;
   font-family: century gothic;
+  -webkit-font-smoothing: antialiased;
   color: #dddddd;
   background: #000;
   background-image: url("https://i.imgur.com/MoyAZ8C.png");
   background-repeat: repeat-x;
   background-size: cover;
   background-attachment:fixed;
-}
-
-/* anti-alias text */
-
-* {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 h1 {
